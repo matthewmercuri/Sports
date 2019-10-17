@@ -1,2 +1,2 @@
 # Sports
-Holds sports data and some code drawing insights
+Holds sports data and some code
